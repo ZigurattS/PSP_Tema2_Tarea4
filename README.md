@@ -1,5 +1,7 @@
 <h1>PSP_Tema2_Tarea4Extra</h1>
 
+<img src="https://raw.githubusercontent.com/zigusretl/images/main/PSP_TEMA2_TAREA4.PNG?token=ANN6MR4UYG3FBKOGZSAQSLC7ZKKQS" width="350"></img>
+
 <h2>Componentes</h2>
 <p>El ejercicio contiene:</p>
 - Main.
