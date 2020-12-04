@@ -16,6 +16,7 @@ comparemos con el del árbitro.</p>
 - [x] Compatible con eclipse.
 
 <h2>Metodologías y librerías usadas</h2>
+
 - [x] Sobrecarga.
 - [x] Threads&run.
 - [x] Programación orientada a objetos.
@@ -24,6 +25,7 @@ comparemos con el del árbitro.</p>
 - [x] TimeUnit.
 
 <h2>Lenguaje</h2>
+
 - [x] Java.
 
 
